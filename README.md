@@ -1,7 +1,7 @@
 # Notebook
 
 ```bash
-python -r requirements.txt
+pipenv install
 ```
 
 ## Contents
